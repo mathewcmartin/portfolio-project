@@ -47,3 +47,4 @@ Not to long after this experience Ricky and his brothers all passed away. It is 
  [Blender Mesh Modeling docs](https://docs.blender.org/manual/en/dev/modeling/meshes/introduction.html)
  [Blender License](https://docs.blender.org/manual/en/dev/about/license.html)
  [Script Tutorials animation tutorial on Three.js including example scripting](https://www.script-tutorials.com/webgl-with-three-js-lesson-11/)
+[Embedding webpages in a 3D Three.js scene By Philippe Leefsma](http://adndevblog.typepad.com/cloud_and_mobile/2015/07/embedding-webpages-in-a-3d-threejs-scene.html)
